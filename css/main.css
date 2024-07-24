@@ -1,0 +1,43 @@
+body {
+    background-color: aliceblue;
+}
+
+section {
+    margin: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+ul{
+    display: flex;
+    padding-left: 0;
+}
+
+li{
+    list-style: none;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color:darkslategray;
+    font-weight: bold;
+}
+
+
+article {
+    background-color:mintcream;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 500px;
+}
